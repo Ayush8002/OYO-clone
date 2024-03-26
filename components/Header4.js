@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Wrapper from '../layouts/Wrapper'
+import Wrapper from '../pages/layouts/Wrapper.jsx'
 
 const Header4 = () => {
     return (

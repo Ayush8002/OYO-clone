@@ -1,6 +1,6 @@
 import React from 'react'
-import Wrapper from '../layouts/Wrapper'
-import { headerCities } from '../data/data'
+import Wrapper from '../pages/layouts/Wrapper.jsx'
+import { headerCities } from '../pages/data/data'
 import { VscChevronDown } from "react-icons/vsc";
 
 const Header2 = () => {
